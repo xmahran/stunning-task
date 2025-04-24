@@ -28,8 +28,8 @@ A modern, interactive hero section built with React, TypeScript, and Tailwind CS
 
    ```bash
    git clone [repository-url]
-   git branch dev
    cd [project-directory]
+   git checkout dev
    npm install
    ```
 
