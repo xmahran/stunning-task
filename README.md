@@ -87,4 +87,3 @@ The project uses a customized Tailwind configuration for colors and themes. Modi
 - Transitions
 - Responsive breakpoints
 
-LOOM LINK: https://www.loom.com/share/6fc1bceeba9748cdb87e339fbd51b5a5
